@@ -1,4 +1,12 @@
-const e=`# Compiling client expectations into code
+const e=`---
+title: "Top Challenges Website Designers Face"
+description: "The most crucial task being a website designer is transforming client requirements into code if you are working as a freelancer and taking cut to cut responsibilities of client requirements, then in real-time you have to think from both perspectives that is with respect to code and design"
+slug: "top-challenges-website-designers-face"
+keywords: ["website design", "responsive design", "cross-browser compatibility", "client requirements", "web development"]
+draft: false
+readingTime: 3
+---
+# Compiling client expectations into code
 
 
 The most crucial task being a website designer is transforming client requirements into code if you are working as a freelancer and taking cut to cut responsibilities of client requirements, then in real-time you have to think from both perspectives that is with respect to code and design

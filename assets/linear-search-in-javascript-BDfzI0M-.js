@@ -1,4 +1,12 @@
-const e=`### About Linear Search
+const e=`---
+title: "Linear Search in JavaScript"
+description: "Linear search is the most basic type of search in javascript, searching here is nothing but locating some element or data in any data structure for example, when we log in to any website this search process only validate the user it iterates over the database and search user, so in general, search is almost everywhere and it is one of the most basic task if we deal with any web application so let's proceed to see this one of the most basic algorithm and look at how it works under the hood"
+slug: "linear-search-in-javascript"
+keywords: ["linear search", "JavaScript", "search algorithm", "arrays", "data structures"]
+draft: false
+readingTime: 1
+---
+### About Linear Search
 
 
 Linear search is the most basic type of search in javascript, searching here is nothing but locating some element or data in any data structure for example, when we log in to any website this search process only validate the user it iterates over the database and search user, so in general, search is almost everywhere and it is one of the most basic task if we deal with any web application so let's proceed to see this one of the most basic algorithm and look at how it works under the hood

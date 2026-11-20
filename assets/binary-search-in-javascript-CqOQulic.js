@@ -1,4 +1,12 @@
-const n=`
+const n=`---
+title: "Binary Search in JavaScript"
+description: "In this article, we'll look at the idea behind Binary Search and its implementation. Binary Search is a very simple, intuitive, yet efficient searching algorithm. The only limitation is that it works only with sorted arrays, so some preprocessing on our data in order to sort it is necessary."
+slug: "binary-search-in-javascript"
+keywords: ["binary search", "JavaScript", "search algorithm", "sorted arrays", "algorithm"]
+draft: false
+readingTime: 1
+---
+
 
 
 

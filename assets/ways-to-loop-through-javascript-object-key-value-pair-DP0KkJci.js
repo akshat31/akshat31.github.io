@@ -1,4 +1,12 @@
-const e=`Looping data in javascript is one of the most crucial tasks, if we are making any web application there is most chance that we are looping some data to UI, Array and object are the two main data structures in javascript in that almost all the time we look to do a looping through array or object of the array
+const e=`---
+title: "Ways to loop through javascript object key value pair"
+description: "Looping data in javascript is one of the most crucial tasks, if we are making any web application there is most chance that we are looping some data to UI, Array and object are the two main data structures in javascript in that almost all the time we look to do a looping through array or object of the array"
+slug: "ways-to-loop-through-javascript-object-key-value-pair"
+keywords: ["JavaScript object", "key-value pairs", "Object.entries", "Object.keys", "for-in loop"]
+draft: false
+readingTime: 2
+---
+Looping data in javascript is one of the most crucial tasks, if we are making any web application there is most chance that we are looping some data to UI, Array and object are the two main data structures in javascript in that almost all the time we look to do a looping through array or object of the array
 
 
 looping data to some HTML and CSS is one of the basic levels of tasks at least a beginner should know, looping data the most common problem we face is, how to write code in such a way it takes fewer number lines and is more reliable in logic after loop
